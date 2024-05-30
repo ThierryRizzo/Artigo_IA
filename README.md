@@ -1,4 +1,4 @@
-![Alt text](https://unsplash.com/photos/fvxNerA8uk0)
+![Alt text](https://images.unsplash.com/photo-1677691820099-a6e8040aa077?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 # ChatGPT na Programação: Uma Ferramenta Poderosa
 
 A inteligência artificial, exemplificada pelo ChatGPT, tem se destacado como uma ferramenta eficaz para auxiliar programadores na resolução de problemas complexos de forma eficiente e produtiva. A capacidade do ChatGPT de compreender e responder a perguntas de maneira natural e acessível faz dele um "colega virtual" valioso para os desenvolvedores.
